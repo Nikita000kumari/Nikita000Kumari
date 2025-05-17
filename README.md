@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently studying ...
+I am currently studying and learning 
+let's connect on: https://www.linkedin.com/4/in/nikita-kumari1
 
 
 ## 🌐 Socials:
