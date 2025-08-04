@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm a 2 nd year undergrad in IGDTUW . Learning and growing ...</h1>
+<h1>Hi 👋, I'm a 19 yr old undergrad. Learning and growing ...</h1>
 <p>Eager to learn more in app dev and machine learning .</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
