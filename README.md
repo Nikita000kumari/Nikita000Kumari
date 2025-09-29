@@ -57,4 +57,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+### Badges
+<p align="center"> <img src="https://img.shields.io/badge/Code-Live-informational?style=flat&logo=github&logoColor=white&color=ff69b4" /> <img src="https://img.shields.io/badge/Learning-Everyday-blueviolet?style=flat&logo=github&logoColor=white&color=00C9A7" /> <img src="https://img.shields.io/badge/Hackathons-Rocks-orange?style=flat&logo=github&logoColor=white&color=FFA500" /> </p>
 
