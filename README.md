@@ -1,8 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi%2C+I'm+Nikita+👋;ECE+Student+%7C+App+Dev+Enthusiast;Hackathon+Builder+%7C+IoT+Learner)](https://git.io/typing-svg)
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=Hi%2C+I'm+Nikita+👋;ECE+Undergrad+%7C+App+Dev+Enthusiast;Hackathon+Builder+%7C+IoT+Learner;Always+learning+%26+exploring!)](https://git.io/typing-svg)
 
+---
+
+### 🌟 About Me
 🌱 Exploring **App Development** and **IoT**  
-💡 Interested in **C++, UI/UX, and Hackathon Projects**  
-🚀 Building cool prototypes and learning step by step  
+💡 Passionate about **C++, UI/UX, and Hackathon Projects**  
+🚀 Turning ideas into **working prototypes**, step by step  
 
 ---
 
@@ -19,13 +23,38 @@
 
 ### 📖 Currently Exploring  
 - [x] Data Structures & Algorithms in C++ ⚡  
-- [x] UI/UX design from scratch 🎨  
-- [ ] App development best practices 🚀  
+- [x] UI/UX design fundamentals 🎨  
+- [ ] Advanced app development practices 🚀  
 - [ ] Open Source Contributions 🌍  
 
 ---
 
 ### 📊 GitHub Overview  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikita000kumari&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikita000kumari&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita000kumari&layout=compact&theme=radical" height="180"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita000kumari&layout=compact&theme=radical)  
+---
+
+### 🔥 Streak & Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nikita000kumari&theme=radical&hide_border=true" height="180"/>
+</p>  
+
+---
+
+### 🎨 Animated Dev Card  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita000kumari&theme=radical" height="200"/>
+</p>
+
+---
+
+### 📫 Reach Me  
+<p align="center">
+  <a href="mailto:nikitakumari0709@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
