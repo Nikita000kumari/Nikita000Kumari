@@ -22,10 +22,11 @@ I work with **App Development, UI/UX, and IoT** to craft solutions that help peo
 - 💖 **iBin** – Smart waste bin with object detection & app integration  
 - 💫 **AlzPal** – App for elderly & Alzheimer's patients to simplify daily tasks  
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikita000kumari&show_icons=true&theme=soft-green" alt="GitHub Stats" />
 </p>
+
 
 > *“Creativity is intelligence having fun 🌸”*  
 > 
