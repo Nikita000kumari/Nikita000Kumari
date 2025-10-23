@@ -1,61 +1,52 @@
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=Hi%2C+I'm+Nikita+👋;ECE+Undergrad+%7C+App+Dev+Enthusiast;Hackathon+Builder+%7C+IoT+Learner;Always+learning+%26+exploring!)](https://git.io/typing-svg)
-
----
-
-### 🌟 About Me
-🌱 Exploring **App Development** and **IoT**  
-💡 Passionate about **C++, UI/UX, and Hackathon Projects**  
-🚀 Turning ideas into **working prototypes**, step by step  
-
----
-
-### 🛠 Tech I Use  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
-</p>  
-
----
-
-### 📖 Currently Exploring  
-- [x] Data Structures & Algorithms in C++ ⚡  
-- [x] UI/UX design fundamentals 🎨  
-- [ ] Advanced app development practices 🚀  
-- [ ] Open Source Contributions 🌍  
-
----
-
-### 📊 GitHub Overview  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikita000kumari&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita000kumari&layout=compact&theme=radical" height="180"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Welcome Banner"/>
 </p>
 
----
+## 🌸 About Me  
 
-### 🔥 Streak & Activity
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nikita000kumari&theme=radical&hide_border=true" height="180"/>
-</p>  
-
----
-
-### 🎨 Animated Dev Card  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita000kumari&theme=radical" height="200"/>
-</p>
+Hello there! I'm **Nikita Kumari**, an **Electronics and Communication Engineering** undergrad passionate about exploring the fusion of **technology, design, and innovation.**  
+I’m currently learning **App Development**, **UI/UX Design**, and **IoT systems** to create meaningful digital solutions that make real-world impact.  
+I love working on **hackathon projects** that blend **creativity and engineering** to solve practical challenges.  
 
 ---
 
-### 📫 Reach Me  
-<p align="center">
-  <a href="mailto:nikitakumari0709@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 🎓 Professional Background  
 
+- 🧠 **Currently pursuing:** B.Tech in ECE @ Indira Gandhi Delhi Technical University for Women (IGDTUW)  
+- 🌱 **Learning:** App Development (Flutter), UI/UX Design, and IoT integration  
+- 💬 **Ask me about:** UI Design workflows, App Prototyping, IoT ideas, and Hackathon projects  
+- 🚀 **Projects:**  
+  - 🗑 **iBin** – Smart Waste Management System integrating IoT and ML  
+  - 🧠 **AlzPal** – App to support Alzheimer’s patients and elderly care  
+- 📫 **Reach me at:** [nikita.kumari@example.com](mailto:nikita.kumari@example.com)
+
+---
+
+## 💻 Tech Stack  
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=adobe-xd&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+
+![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&hide_border=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact)
+
+---
+
+## ☕ Support  
+
+If you enjoy my work and want to support what I do 💛  
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourlink)
+
+---
 
