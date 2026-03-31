@@ -1,2 +1,1 @@
-
-Exploring the unexplored.
+20, learning and building 
