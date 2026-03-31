@@ -1,2 +1,2 @@
-20 , learning and building 
+20, learning and building 
 
