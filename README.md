@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 
-Focused on building **clean and user-friendly Android applications**.
-Currently improving **DSA** and core development skills.
+Focused on building **practical, user-centric applications** with clean and maintainable code.
+Currently strengthening **Android development** and **DSA**.
 
 ---
 
@@ -22,21 +22,20 @@ Currently improving **DSA** and core development skills.
 
 ## 📂 Projects
 
-* Android Apps (Notes App, practice projects)
-* UI/UX Design work
+* **iBin** – Smart waste management system using object detection & app integration
+* **AlzPal** – App designed to assist elderly and Alzheimer’s patients
+* **Android Apps** – Notes app and other practice projects
 
 ---
 
 ## 📈 Current Focus
 
-* Android Development (Jetpack, architecture)
-* DSA for interviews
-* Building strong projects
+* Android Development (Jetpack, architecture patterns)
+* DSA for technical interviews
+* Building production-level projects
 
 ---
 
 ## 🤝 Connect
-
-* LinkedIn: (add link)
-* Email: (add email)
+* Email: nikitakumari0709@gmail.com
 
