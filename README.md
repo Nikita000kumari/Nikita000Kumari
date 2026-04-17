@@ -1,6 +1,6 @@
 # Hi, I'm Nikita .
 
-🎓 B.Tech ECE | 💻 Aspiring Software Engineer (Android)
+ B.Tech ECE | Aspiring Software Engineer (Android)
 
 ---
 
