@@ -11,20 +11,12 @@ Currently strengthening **Android development** and **DSA**.
 
 ---
 
-##  Skills
-
-* **Languages:** C++, Kotlin, Python
-* **Android:** Android Studio, Jetpack (Basics), Firebase (Basics)
-* **Core:** DSA, OOP, REST APIs
-* **Tools:** Git, GitHub
-
----
-
 ##  Projects
 
 * **iBin** – Smart waste management system using object detection & app integration
 * **AlzPal** – App designed to assist elderly and Alzheimer’s patients
-* **Android Apps** – Notes app and other practice projects
+* **Android Apps** – Notes app and other practice project
+
 
 ---
 
