@@ -1,4 +1,4 @@
-# Hi, I'm Nikita Kumari 👋
+# Hi, I'm Nikita .
 
 🎓 B.Tech ECE | 💻 Aspiring Software Engineer (Android)
 
