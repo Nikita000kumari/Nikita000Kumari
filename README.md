@@ -4,14 +4,14 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 Focused on building **practical, user-centric applications** with clean and maintainable code.
 Currently strengthening **Android development** and **DSA**.
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 * **Languages:** C++, Kotlin, Python
 * **Android:** Android Studio, Jetpack (Basics), Firebase (Basics)
@@ -20,7 +20,7 @@ Currently strengthening **Android development** and **DSA**.
 
 ---
 
-## 📂 Projects
+##  Projects
 
 * **iBin** – Smart waste management system using object detection & app integration
 * **AlzPal** – App designed to assist elderly and Alzheimer’s patients
@@ -28,7 +28,7 @@ Currently strengthening **Android development** and **DSA**.
 
 ---
 
-## 📈 Current Focus
+##  Current Focus
 
 * Android Development (Jetpack, architecture patterns)
 * DSA for technical interviews
@@ -36,6 +36,6 @@ Currently strengthening **Android development** and **DSA**.
 
 ---
 
-## 🤝 Connect
+##  Connect
 * Email: nikitakumari0709@gmail.com
 
